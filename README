@@ -3,6 +3,67 @@ Website
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes"</title>
+    </head>
+    <style> 
+    h1{color:brown;}
+    h2{color:blue;}
+    h3{color:green;}  
+    .IslasBoraBora{color:white;} 
+    .IslasBoraBoras{color:purple;}
+    .IslasBoraBoraa{color:yellow;}
+    .IslasBoraBoraaa{color:pink;}
+    body{
+        background-color: rgb(28, 32, 33);
+    }
+    </style>
+    <body>
+    
+        <h1>Travel to Islas Bora Bora</h1>
+  <p class="IslasBoraBora">   Las Islas Bora Bora es un lugar precioso donde hay una gran cantidad de <strong>vegetación</strong> y <strong>animales</strong>. Está llena de cosas súper <em>interesantes</em> que ver y descubrir, tiene unas cabañas en la orilla del mar las cuales se pueden alquilar para pasar la noche.</p>
+       
+       <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png" width="95%"><br> 
+       <h2>Lugares para visitar:<br>
+        
+        
+        </h2>
+        <ul>
+     
+          <li><p class="IslasBoraBoras">Musée de Marine</p></li>
+       <li><p class="IslasBoraBoras">Catamarán al atardecer</p></li>
+            <li><p class="IslasBoraBoras">Motu Tapu</p></li>
+            <li><p class="IslasBoraBoras">Aquarium</p></li>
+            <li><p class="IslasBoraBoras">Vaitape</p></li>
+        
+            
+            
+        </ul>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-at-sunset.png" width="95%">
+       
+        <h3>
+            Fauna:
+            
+        </h3>  
+   <ol>
+       <li> <p class="IslasBoraBoraa">Pico de coral</p></li>
+       <li> <p class="IslasBoraBoraa">Tortuga laúd</p></li>
+       <li> <p class="IslasBoraBoraa">Cocotero</p></li>
+       <li> <p class="IslasBoraBoraa">Ixora</p></li>
+       <li> <p class="IslasBoraBoraa">Murciélago frugívoro</p></li>
+   </ol>
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/birds_rainbow-lorakeets.png" width="95%">
+   <br><p class="IslasBoraBoraaa"> Para hacer un viaje de verano recomiendo encarecidamente ir de vacaciones a estas islas, ya que bañarse en sus playas y pasear por sus senderos con el calor del sol es una experiencia <strong>inolvidable</strong>.</p>
+    </body>
+    
+    
+    
+    
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
         <title>Derivado de "Proyecto: libro de recetas"</title>
         <meta charset="utf-8">
         <style>
